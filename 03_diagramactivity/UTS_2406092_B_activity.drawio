@@ -5,53 +5,53 @@
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
 
-        <mxCell id="laneP" value="Peserta" style="swimlane;horizontal=1;startSize=26;html=1;fillColor=#f5f5f5;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="laneP" value="Peserta" style="swimlane;horizontal=1;startSize=26;html=1;fillColor=#ffffff;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="15" y="14" width="260" height="856" as="geometry"/>
         </mxCell>
-        <mxCell id="laneS" value="Sistem" style="swimlane;horizontal=1;startSize=26;html=1;fillColor=#f5f5f5;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="laneS" value="Sistem" style="swimlane;horizontal=1;startSize=26;html=1;fillColor=#ffffff;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="275" y="14" width="415" height="856" as="geometry"/>
         </mxCell>
 
         <mxCell id="start" value="" style="ellipse;html=1;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="144" y="58" width="16" height="16" as="geometry"/>
         </mxCell>
-        <mxCell id="A1" value="Membuka menu Daftar Kegiatan" style="rounded=1;whiteSpace=wrap;html=1;arcSize=30;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="A1" value="Membuka menu Daftar Kegiatan" style="rounded=1;whiteSpace=wrap;html=1;arcSize=30;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="45" y="88" width="214" height="36" as="geometry"/>
         </mxCell>
-        <mxCell id="A2" value="«include»&lt;br&gt;Melihat Daftar Kegiatan" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="A2" value="«include»&lt;br&gt;Melihat Daftar Kegiatan" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="470" y="82" width="200" height="48" as="geometry"/>
         </mxCell>
-        <mxCell id="A3" value="Memilih kegiatan&lt;br&gt;lalu menekan Daftar" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="A3" value="Memilih kegiatan&lt;br&gt;lalu menekan Daftar" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="45" y="160" width="214" height="48" as="geometry"/>
         </mxCell>
-        <mxCell id="A4" value="«include»&lt;br&gt;Memeriksa Kuota Kegiatan" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="A4" value="«include»&lt;br&gt;Memeriksa Kuota Kegiatan" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="470" y="232" width="200" height="48" as="geometry"/>
         </mxCell>
-        <mxCell id="D1" value="Kuota tersedia?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="D1" value="Kuota tersedia?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="510" y="302" width="120" height="68" as="geometry"/>
         </mxCell>
-        <mxCell id="A5" value="Menampilkan pesan kuota penuh" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="A5" value="Menampilkan pesan kuota penuh" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="290" y="312" width="146" height="48" as="geometry"/>
         </mxCell>
-        <mxCell id="D3" value="Kegiatan lain?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="D3" value="Kegiatan lain?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="82" y="298" width="140" height="76" as="geometry"/>
         </mxCell>
         <mxCell id="End1" value="" style="shape=endState;html=1;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="142" y="404" width="20" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="A6" value="Menyimpan pendaftaran&lt;br&gt;status Terdaftar" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="A6" value="Menyimpan pendaftaran&lt;br&gt;status Terdaftar" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="470" y="404" width="200" height="48" as="geometry"/>
         </mxCell>
-        <mxCell id="A7" value="Menampilkan konfirmasi" style="rounded=1;whiteSpace=wrap;html=1;arcSize=30;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="A7" value="Menampilkan konfirmasi" style="rounded=1;whiteSpace=wrap;html=1;arcSize=30;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="470" y="482" width="200" height="36" as="geometry"/>
         </mxCell>
-        <mxCell id="D2" value="Cetak kartu?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="D2" value="Cetak kartu?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="82" y="532" width="140" height="76" as="geometry"/>
         </mxCell>
-        <mxCell id="A8" value="«extend»&lt;br&gt;Mencetak Kartu Peserta" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="A8" value="«extend»&lt;br&gt;Mencetak Kartu Peserta" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="470" y="700" width="200" height="48" as="geometry"/>
         </mxCell>
-        <mxCell id="note" value="condition:&lt;br&gt;{status = Terdaftar}&lt;br&gt;extension point:&lt;br&gt;Pendaftaran tercatat" style="shape=note;size=12;whiteSpace=wrap;html=1;align=left;spacingLeft=6;dashed=1;fillColor=#ffffff;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="note" value="condition:&lt;br&gt;{status = Terdaftar}&lt;br&gt;extension point:&lt;br&gt;Pendaftaran tercatat" style="shape=note;size=12;whiteSpace=wrap;html=1;align=left;spacingLeft=6;dashed=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="285" y="626" width="170" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="M" value="" style="rhombus;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
